@@ -1,1 +1,38 @@
-This is my initial note for testing.
+Vocabulary Words:
+Instance -  a concrete occurance of any object
+Object - a data type
+Attribute - specification that defines a property of an object
+Method - a procedure that defines the behavior of the objects created from a
+class. Can also modify attributes
+Class - an extensible program-code-template for creating objects, providing
+initial values for state and implementations of behavior
+Data Type - specification of what kind of data can be stored within a program.
+String, Number, and Boolean are primitive data types. Object, Array, and
+Function (all types of objects) are composite data types.
+File - a resource for recording data
+Directory - a structure that organizes files
+File Path - a way to notate where files are located on your computer
+Origen - URL where code is hosted on GitHub
+
+
+Terminal Commands
+mkdir - creates a directory
+touch - creates a file within a directory
+ls - lists everything in the directory
+cd - move into a directory  (cd .. or cd folderName)
+pwd - print working directory
+echo - edit a file from terminal
+cat - show what is in the file in your terminal
+rm - remove a file (rm filename.txt)
+rm -rf - removes an entire directory and all its contents
+
+Git Commands
+git status - shows status of projects in a git initialized repository
+git init - initializes git within a directory
+git add - add a file to the staging area
+git diff - shows changes made to a file
+git commit - commits changes (git commit -m "present tense change")
+git log - logs git commands from terminal
+git pull - download from a remote repository
+git push - upload to a remote repository
+git clone - make a copy of a repository on a local machine
